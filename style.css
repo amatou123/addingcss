@@ -1,0 +1,86 @@
+*{
+    color: rgb(111, 28, 188);
+}
+*{
+    font-family: 'Lumanosimo', cursive
+}
+/*Header part*/
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(201, 112, 236);
+    color: rgb(131, 18, 172);
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin: 0.5rem;
+}
+a{
+    text-decoration: none;
+    color: rgb(63, 4, 93);
+}
+logo{
+    padding: 1rem;
+    border: 5px rgb(162, 90, 196);
+}
+/*Main part*/
+
+.container{
+background-color:rgb(43, 0, 45);
+width:40%}
+.container{
+    color: purple;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 10%;
+    border-radius: 10px;
+    text-align: center;
+}
+.portfolio {
+border: 5px;
+display: flex;
+width: 80%;
+margin: 100%px 200px 100px 200px
+}
+.portfolio img{
+width: 200px;
+height: 200px;
+}
+.part-text{
+padding:20px ;
+margin-right: 100px;
+width: 30%;
+}
+.part-text h2{
+font-weight: bold;
+}
+/*Foter part*/
+.footer{
+    background-color: rgb(66, 64, 64);
+    color: #000;
+    margin-top: 150px;
+    width: 100px;
+    display: flex;
+}
+.footer div{ 
+    border: #cb7f7f;
+    
+}
+
+img{
+    width: 1450px;
+    height: 400px;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin: right 100px; 
+}
+{
+font-family: Helvetica neue, roboto;
+}
+
+
